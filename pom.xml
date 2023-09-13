@@ -80,7 +80,7 @@
               <artifactId>taglist-maven-plugin</artifactId>
             </plugin>
           <reporting><Plugins>
-        </configuration>
+        <configuration>
       </plugin>
     </plugins>
 
